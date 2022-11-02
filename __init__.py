@@ -4,7 +4,7 @@ import re
 
 bot_token = "5430629127:AAF-f8NGj0I_suIsB4ht2QNaCeXUTjsOLIA"
 bot_user_name = "supperjio_prototype_bot"
-URL = "https://git.heroku.com/supperjio.git"
+URL = "https://supperjio.herokuapp.com"
 
 global bot
 global TOKEN
